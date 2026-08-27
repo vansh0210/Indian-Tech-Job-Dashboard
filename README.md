@@ -156,4 +156,4 @@ Does company size influence salary opportunities?
 This is a static front-end dashboard, so no backend or installation is required.
 
 9. Screenshot/demo
-Example-(
+Example-(https://github.com/vansh0210/Indian-Tech-Job-Dashboard/blob/main/Screenshot%20(62).png)
